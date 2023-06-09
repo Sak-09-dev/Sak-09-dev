@@ -1,4 +1,6 @@
 ### Hi there 👋
+## 自己紹介
+Sak-09-dev MCID：Sak_09
 
 <!--
 **Sak-09-dev/Sak-09-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
